@@ -184,8 +184,9 @@ padding:1rem 2rem 1rem 2rem;
   }
   .grid>.box-1{
     background-size:cover;
-    background-position: top;
-    border-radius: none;
+    background-position: center;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 1rem;
   }
   .grid>.box-2>button{
     margin:0 auto;
